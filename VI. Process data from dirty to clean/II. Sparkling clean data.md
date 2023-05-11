@@ -4,3 +4,7 @@
 - Your co-workers: 
     + Data engineers transform data into a useful format for analysis and give it a reliable infrastructure
     + Data warehousing specialists develop processes and procedures to effectively store and organize data
+![image](https://github.com/Chinatsu28/Google-Data-Analytics-Professional-Certificate/assets/111115952/e915b798-1949-4a0c-811b-075441e4ca55)
+
+# II. Begin cleaning data
+
