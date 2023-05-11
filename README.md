@@ -12,6 +12,6 @@ This professional certificate consists of 8 courses:
 + Share Data Through the Art of Visualization                                                                                                                             
 + Data Analysis with R Programming                                                                                                                                         
 + Data Analytics Capstone Project: Complete a Case Study                                                                                                                   
+![image](https://github.com/Chinatsu28/Google-Data-Analytics-Professional-Certificate/assets/111115952/28a9983f-eea1-4fe9-a2e1-782cdf0de399)
 
-![image](https://user-images.githubusercontent.com/111115952/232428678-d14421c1-5ce0-4dea-b59e-661d06965ff2.png)
 
