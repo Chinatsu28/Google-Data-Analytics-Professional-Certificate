@@ -15,7 +15,7 @@
     FROM + (table;)
 - Filter:
   + LENGTH(data);
-- TRIM
+- TRIM is a function that removes leading, trailing, and repeated spaces and data
 - SUBSTR((value), (num of characters)): getting the first characters of a column
 # III. TRansforming data
 - CAST() can be used to convert anything from one data type to another
