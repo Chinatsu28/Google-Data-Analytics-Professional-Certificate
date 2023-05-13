@@ -8,3 +8,6 @@
     + Get inputs
     + Transform
 # III. Organize data for analysis
+![image](https://github.com/Chinatsu28/Google-Data-Analytics-Professional-Certificate/assets/111115952/88de6adf-1bc1-42f5-95bc-67cc1a914457)
+- Sorting: arrange data into a meaningful order to make it easier to understand, analyze, and visualize
+- Filtering: showing only the data that meets a specific criteria while hiding the rest
